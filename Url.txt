@@ -4,6 +4,7 @@
         "Google": "https://www.google.com",
         "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
         "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
-        "Aidaform": "https://zewa1965.aidaform.com/bro-botox-einverstaendniserklaerung"
+        "Aidaform": "https://zewa1965.aidaform.com/bro-botox-einverstaendniserklaerung",
+        "Becker Robotics":"https://roboter4care.de"
     }
 }
