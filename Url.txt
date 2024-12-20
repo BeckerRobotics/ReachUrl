@@ -5,13 +5,6 @@
         "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
         "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
         "Aidaform": "https://zewa1965.aidaform.com/bro-botox-einverstaendniserklaerung",
-        "Becker Robotics":"https://roboter4care.de",
-        "Menucard1": "https://f5a984c0a10e4b70b4e5e4e8b7863dbb.elf.site/",
-        "Google1": "https://www.google.com",
-        "HumanBot1": "https://humanchat.net/ham37Xfq76Qk",
-        "Umfrage1": "https://s.surveyplanet.com/ug2u7r6e",
-        "Aidaform1": "https://zewa1965.aidaform.com/bro-botox-einverstaendniserklaerung",
-        "Becker Robotics1":"https://roboter4care.de"
-
+        "Becker Robotics":"https://roboter4care.de"
     }
 }
