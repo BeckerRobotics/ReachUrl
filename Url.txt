@@ -7,6 +7,7 @@
         "Aidaform": "https://zewa1965.aidaform.com/bro-botox-einverstaendniserklaerung",
         "Becker Robotics":"https://roboter4care.de",
         "Shore":"https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/", 
-        "Youtube":"https://www.youtube.com"
+        "Youtube":"https://www.youtube.com",
+        "Video Call":"https://www.whereby.com/becker-robotics"
     }
 }
