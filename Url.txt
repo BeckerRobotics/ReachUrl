@@ -10,15 +10,15 @@
         "Youtube":"https://www.youtube.com",
         "Video Call":"https://www.whereby.com/becker-robotics",
         "Relefant":"https://app.relefant.eu/auth",
-"Hoch auf dem Gelben Wagen":"https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
-"Kein schoener Land in dieser Zeit":"https://peters-liederbox.de/mediathek/Kein-schoener-Land-in-dieser-Zeit.mp4",
-"Nun ade du mein lieb Heimatland":"https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4",
-"Schneewalzer":"https://peters-liederbox.de/mediathek/Schneewalzer.mp4",
-"Wem Gott will rechte Gunst erweien":"https://peters-liederbox.de/mediathek/Wem-Gott-will-rechte-Gunst-erweisen.mp4",
-"Wer lieben die Stuerme":"https://peters-liederbox.de/mediathek/Wir-lieben-die-Stuerme.mp4",
-"Die Gedanken sind frei":"https://peters-liederbox.de/mediathek/Die-Gedanken-sind-frei.mp4",
-"Wohlauf in Gottes schoene Welt":"https://peters-liederbox.de/mediathek/Wohlauf-in-Gottes-schoene-Welt.mp4",
-"Am Brunnen vor dem Tore":"https://peters-liederbox.de/mediathek/Am-Brunnen-vor-dem-Tore.mp4",
-"Du  du liegst mir am Herzen":"https://peters-liederbox.de/mediathek/Du-du-liegst-mir-am-Herzen.mp4"
+        "Hoch auf dem Gelben Wagen":"https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
+        "Kein schoener Land in dieser Zeit":"https://peters-liederbox.de/mediathek/Kein-schoener-Land-in-dieser-Zeit.mp4",
+        "Nun ade du mein lieb Heimatland":"https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4",
+        "Schneewalzer":"https://peters-liederbox.de/mediathek/Schneewalzer.mp4",
+        "Wem Gott will rechte Gunst erweien":"https://peters-liederbox.de/mediathek/Wem-Gott-will-rechte-Gunst-erweisen.mp4",
+        "Wer lieben die Stuerme":"https://peters-liederbox.de/mediathek/Wir-lieben-die-Stuerme.mp4",
+        "Die Gedanken sind frei":"https://peters-liederbox.de/mediathek/Die-Gedanken-sind-frei.mp4",
+        "Wohlauf in Gottes schoene Welt":"https://peters-liederbox.de/mediathek/Wohlauf-in-Gottes-schoene-Welt.mp4",
+        "Am Brunnen vor dem Tore":"https://peters-liederbox.de/mediathek/Am-Brunnen-vor-dem-Tore.mp4",
+        "Du  du liegst mir am Herzen":"https://peters-liederbox.de/mediathek/Du-du-liegst-mir-am-Herzen.mp4"
     }
 }
