@@ -1,5 +1,5 @@
 {
-    "Website": {
+"Website": {
         "Menucard": "https://f5a984c0a10e4b70b4e5e4e8b7863dbb.elf.site/",
         "Google": "https://www.google.com",
         "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
@@ -23,6 +23,4 @@
         "Am Brunnen vor dem Tore":"https://peters-liederbox.de/mediathek/Am-Brunnen-vor-dem-Tore.mp4",
         "Du  du liegst mir am Herzen":"https://peters-liederbox.de/mediathek/Du-du-liegst-mir-am-Herzen.mp4"
     }  
-
-
 }
