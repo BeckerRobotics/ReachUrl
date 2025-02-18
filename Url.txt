@@ -1,5 +1,5 @@
 {
-"Website": {
+"SORA": {
         "Menucard": "https://f5a984c0a10e4b70b4e5e4e8b7863dbb.elf.site/",
         "Google": "https://www.google.com",
         "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
@@ -9,9 +9,7 @@
         "Shore":"https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/", 
         "Youtube":"https://www.youtube.com",
         "Video Call":"https://www.whereby.com/becker-robotics",
-        "Relefant":"https://app.relefant.eu/auth"
-    },
-"Karaoke": {
+        "Relefant":"https://app.relefant.eu/auth",
         "Hoch auf dem Gelben Wagen":"https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
         "Kein schoener Land in dieser Zeit":"https://peters-liederbox.de/mediathek/Kein-schoener-Land-in-dieser-Zeit.mp4",
         "Nun ade du mein lieb Heimatland":"https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4",
