@@ -1,6 +1,8 @@
 {
 "Sora": {
-        "Menucard": "https://f5a984c0a10e4b70b4e5e4e8b7863dbb.elf.site/",
+       
+        "Canva":"https://www.canva.com/design/DAGVm0ofXAQ/O-AORoxGZgip8u215qUkSg/view?utm_content=DAGVm0ofXAQ&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+ "Menucard": "https://f5a984c0a10e4b70b4e5e4e8b7863dbb.elf.site/",
         "Google": "https://www.google.com",
         "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
         "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
