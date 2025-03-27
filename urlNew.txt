@@ -24,9 +24,8 @@
     "Am Brunnen vor dem Tore": "https://peters-liederbox.de/mediathek/Am-Brunnen-vor-dem-Tore.mp4",
     "Du du liegst mir am Herzen": "https://peters-liederbox.de/mediathek/Du-du-liegst-mir-am-Herzen.mp4"
   },
-  "Autos": {
-    "Hoch auf dem Gelben Wagen": "https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
-    "Kein schoener Land in dieser Zeit": "https://peters-liederbox.de/mediathek/Kein-schoener-Land-in-dieser-Zeit.mp4",
-    "Nun ade du mein lieb Heimatland": "https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4"
+  "HVBB": {
+    "Canva 1": "https://www.canva.com/design/DAGi75Clcqc/AOSr_Z4Wxs4rNGOL6D1ZWQ/view?utm_content=DAGi75Clcqc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h843d99c1d4",
+    "Canva 2": "https://www.canva.com/design/DAGi72Dp104/VhP3Pmn7FGQ_x-peEnsRlA/view?utm_content=DAGi72Dp104&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h78c19a0efc"
   }
 }
