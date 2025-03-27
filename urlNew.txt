@@ -27,6 +27,6 @@
   "Autos": {
     "Hoch auf dem Gelben Wagen": "https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
     "Kein schoener Land in dieser Zeit": "https://peters-liederbox.de/mediathek/Kein-schoener-Land-in-dieser-Zeit.mp4",
-    "Nun ade du mein lieb Heimatland": "https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4",
+    "Nun ade du mein lieb Heimatland": "https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4"
   }
 }
