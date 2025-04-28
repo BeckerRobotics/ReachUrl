@@ -10,7 +10,8 @@
     "Youtube": "https://www.youtube.com",
     "Video Call": "https://www.whereby.com/becker-robotics",
     "Relefant": "https://app.relefant.eu/auth",
-    "Karneval":"https://www.canva.com/design/DAGgA-1sX7s/k2LKkdBjKcWP7VmpAzuZ3g/view?utm_content=DAGgA-1sX7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc80217df59"
+    "Karneval":"https://www.canva.com/design/DAGgA-1sX7s/k2LKkdBjKcWP7VmpAzuZ3g/view?utm_content=DAGgA-1sX7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc80217df59",
+  "Wayfinder": "https://maps.inforomap.de/de/web/rehab25"
   },
   "Karaoke": {
     "Hoch auf dem Gelben Wagen": "https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
