@@ -1,12 +1,13 @@
 {
   "Websites": {
+    "SiWave":"https://youtu.be/247zh1XSlQ4?si=Rwae3Y5XCiI4EprD",
+    "Shore": "https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/",
+    "Becker Robotics": "https://roboter4care.de",
     "CheckIn Days": "https://humanchat.net/R2N4VrvG8t9L",
     "Google": "https://www.google.com",
     "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
     "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
     "Aidaform": "https://humanchat.net/ham37Xfq76Qk",
-    "Becker Robotics": "https://roboter4care.de",
-    "Shore": "https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/",
     "Youtube": "https://www.youtube.com",
     "Video Call": "https://www.whereby.com/becker-robotics",
     "Relefant": "https://app.relefant.eu/auth",
@@ -14,9 +15,6 @@
     "Wayfinder": "https://maps.inforomap.de/de/web/rehab25",
     "KI Avatar":"https://labs.heygen.com/interactive-avatar/share?  share=eyJxdWFsaXR5IjoiaGlnaCIsImF2YXRhck5hbWUiOiJBbm5fRG9jdG9yX1N0YW5kaW5nMl9wdWJs%0D%0AaWMiLCJwcmV2aWV3SW1nIjoiaHR0cHM6Ly9maWxlczIuaGV5Z2VuLmFpL2F2YXRhci92My82OTlh%0D%0ANGMyOTk1OTE0ZDM5YjJjYjMxMWE5MzBkNzcyMF80NTU3MC9wcmV2aWV3X3RhbGtfMy53ZWJwIiwi%0D%0AbmVlZFJlbW92ZUJhY2tncm91bmQiOmZhbHNlLCJrbm93bGVkZ2VCYXNlSWQiOiI1ZWM2NGM1MjUx%0D%0AYTc0NzUyOTJkOGE1ZGI5ZWNiOTVjOCIsInVzZXJuYW1lIjoiMjU5YTlmZjkwYzY1NGEyZDhiNzJk%0D%0AOTYwYjk1ODdlZDQifQ%3D%3D",
 "Wiselab":"https://bbb.wiselab.io/b/rob-ctv-yd9-oto"
-
-
-
   },
   "Karaoke": {
     "Hoch auf dem Gelben Wagen": "https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
