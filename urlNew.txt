@@ -14,7 +14,7 @@
     "Relefant": "https://app.relefant.eu/auth",
     "Karneval":"https://www.canva.com/design/DAGgA-1sX7s/k2LKkdBjKcWP7VmpAzuZ3g/view?utm_content=DAGgA-1sX7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc80217df59",
     "Wayfinder": "https://maps.inforomap.de/de/web/rehab25",
-    "KI Avatar":"https://labs.heygen.com/interactive-avatar/share?  share=eyJxdWFsaXR5IjoiaGlnaCIsImF2YXRhck5hbWUiOiJBbm5fRG9jdG9yX1N0YW5kaW5nMl9wdWJs%0D%0AaWMiLCJwcmV2aWV3SW1nIjoiaHR0cHM6Ly9maWxlczIuaGV5Z2VuLmFpL2F2YXRhci92My82OTlh%0D%0ANGMyOTk1OTE0ZDM5YjJjYjMxMWE5MzBkNzcyMF80NTU3MC9wcmV2aWV3X3RhbGtfMy53ZWJwIiwi%0D%0AbmVlZFJlbW92ZUJhY2tncm91bmQiOmZhbHNlLCJrbm93bGVkZ2VCYXNlSWQiOiI1ZWM2NGM1MjUx%0D%0AYTc0NzUyOTJkOGE1ZGI5ZWNiOTVjOCIsInVzZXJuYW1lIjoiMjU5YTlmZjkwYzY1NGEyZDhiNzJk%0D%0AOTYwYjk1ODdlZDQifQ%3D%3D",
+    "KI Avatar":"https://labs.heygen.com/interactive-avatar/share?share=eyJxdWFsaXR5IjoiaGlnaCIsImF2YXRhck5hbWUiOiI4Y2YxMWNlNGRkODc0MmExYTdhY2JmYTc3%0D%0AYzZjZGFiNSIsInByZXZpZXdJbWciOiJodHRwczovL2ZpbGVzMi5oZXlnZW4uYWkvYXZhdGFyL3Yz%0D%0ALzhjZjExY2U0ZGQ4NzQyYTFhN2FjYmZhNzdjNmNkYWI1L2Z1bGwvMi4yL3ByZXZpZXdfdGFyZ2V0%0D%0ALndlYnAiLCJuZWVkUmVtb3ZlQmFja2dyb3VuZCI6ZmFsc2UsImtub3dsZWRnZUJhc2VJZCI6Ijdh%0D%0AZTczMGU4ZjA2ODRjNDRiZDg1Zjk5YTQ5MDEyZjc3Iiwic2hhcmVfY29kZSI6IjVmMzJlYzA4LTA2%0D%0AMDQtNDZlNy1hNWIzLTMyZGMwZDQzMGUwOCIsInVzZXJuYW1lIjoiMGVhNTAzMzhiNTRhNGY1MGIx%0D%0AYzk4N2JlMDVhZjE1MGEifQ%3D%3D",
 "Wiselab":"https://bbb.wiselab.io/b/rob-ctv-yd9-oto"
   },
   "Karaoke": {
