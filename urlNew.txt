@@ -3,7 +3,6 @@
     "SiWave":"https://youtu.be/247zh1XSlQ4?si=Rwae3Y5XCiI4EprD",
     "Shore": "https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/",
     "Becker Robotics": "https://roboter4care.de",
-    "CheckIn Days": "https://humanchat.net/R2N4VrvG8t9L",
     "Google": "https://www.google.com",
     "KI Avatar": "https://humanchat.net/ham37Xfq76Qk",
     "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
