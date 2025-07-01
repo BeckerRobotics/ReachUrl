@@ -3,19 +3,16 @@
     "SiWave":"https://youtu.be/247zh1XSlQ4?si=Rwae3Y5XCiI4EprD",
     "Shore": "https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/",
     "Becker Robotics": "https://roboter4care.de",
-    "TV":"https://hopetv.de/sendungen/wie-man-riesen-bekaempft/wie-man-riesen-bekaempft-35",
     "CheckIn Days": "https://humanchat.net/R2N4VrvG8t9L",
     "Google": "https://www.google.com",
-    "HumanBot": "https://humanchat.net/ham37Xfq76Qk",
+    "KI Avatar": "https://humanchat.net/ham37Xfq76Qk",
     "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
     "Aidaform": "https://humanchat.net/ham37Xfq76Qk",
     "Youtube": "https://www.youtube.com",
     "Video Call": "https://www.whereby.com/becker-robotics",
     "Relefant": "https://app.relefant.eu/auth",
     "Karneval":"https://www.canva.com/design/DAGgA-1sX7s/k2LKkdBjKcWP7VmpAzuZ3g/view?utm_content=DAGgA-1sX7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc80217df59",
-    "Wayfinder": "https://maps.inforomap.de/de/web/rehab25",
-    "KI Avatar":"https://labs.heygen.com/interactive-avatar/share?share=eyJxdWFsaXR5IjoiaGlnaCIsImF2YXRhck5hbWUiOiI4Y2YxMWNlNGRkODc0MmExYTdhY2JmYTc3%0D%0AYzZjZGFiNSIsInByZXZpZXdJbWciOiJodHRwczovL2ZpbGVzMi5oZXlnZW4uYWkvYXZhdGFyL3Yz%0D%0ALzhjZjExY2U0ZGQ4NzQyYTFhN2FjYmZhNzdjNmNkYWI1L2Z1bGwvMi4yL3ByZXZpZXdfdGFyZ2V0%0D%0ALndlYnAiLCJuZWVkUmVtb3ZlQmFja2dyb3VuZCI6ZmFsc2UsImtub3dsZWRnZUJhc2VJZCI6Ijdh%0D%0AZTczMGU4ZjA2ODRjNDRiZDg1Zjk5YTQ5MDEyZjc3Iiwic2hhcmVfY29kZSI6IjVmMzJlYzA4LTA2%0D%0AMDQtNDZlNy1hNWIzLTMyZGMwZDQzMGUwOCIsInVzZXJuYW1lIjoiMGVhNTAzMzhiNTRhNGY1MGIx%0D%0AYzk4N2JlMDVhZjE1MGEifQ%3D%3D",
-"Wiselab":"https://bbb.wiselab.io/b/rob-ctv-yd9-oto"
+    "Wiselab":"https://bbb.wiselab.io/b/rob-ctv-yd9-oto"
   },
   "Karaoke": {
     "Hoch auf dem Gelben Wagen": "https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
