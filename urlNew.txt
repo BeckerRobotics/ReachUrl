@@ -25,7 +25,7 @@
     "Du du liegst mir am Herzen": "https://peters-liederbox.de/mediathek/Du-du-liegst-mir-am-Herzen.mp4"
   },
   "HVBB": {
-    "Canva 1": "https://www.canva.com/design/DAGi75Clcqc/AOSr_Z4Wxs4rNGOL6D1ZWQ/view?utm_content=DAGi75Clcqc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h843d99c1d4",
-    "Canva 2": "https://www.canva.com/design/DAGi72Dp104/VhP3Pmn7FGQ_x-peEnsRlA/view?utm_content=DAGi72Dp104&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h78c19a0efc"
+    "Pflege & Roboter I": "https://www.canva.com/design/DAGi75Clcqc/AOSr_Z4Wxs4rNGOL6D1ZWQ/view?utm_content=DAGi75Clcqc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h843d99c1d4",
+    "Pflege & Roboter II": "https://www.canva.com/design/DAGi72Dp104/VhP3Pmn7FGQ_x-peEnsRlA/view?utm_content=DAGi72Dp104&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h78c19a0efc"
   }
 }
