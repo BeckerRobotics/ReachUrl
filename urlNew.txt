@@ -4,6 +4,7 @@
     "Shore": "https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/",
     "Becker Robotics": "https://roboter4care.de",
     "Google": "https://www.google.com",
+    "Drive":"https://drive.google.com/",
     "KI Avatar": "https://humanchat.net/ham37Xfq76Qk",
     "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
     "Youtube": "https://www.youtube.com",
