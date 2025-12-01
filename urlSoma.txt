@@ -1,1 +1,32 @@
-
+{
+  "Websites": {
+    "SiWave":"https://youtu.be/247zh1XSlQ4?si=Rwae3Y5XCiI4EprD",
+    "Shore": "https://shore-dl.iis.fraunhofer.de/dc4d8d4008793ad5642da33d2e4fc16a9255490e/",
+    "Becker Robotics": "https://roboter4care.de",
+    "Google": "https://www.google.com",
+    "Drive":"https://drive.google.com/",
+    "KI Avatar": "https://humanchat.net/ham37Xfq76Qk",
+    "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
+    "Youtube": "https://www.youtube.com",
+    "Video Call": "https://www.whereby.com/becker-robotics",
+    "Relefant": "https://app.relefant.eu/auth",
+    "Karneval":"https://www.canva.com/design/DAGgA-1sX7s/k2LKkdBjKcWP7VmpAzuZ3g/view?utm_content=DAGgA-1sX7s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc80217df59",
+    "Wiselab":"https://bbb.wiselab.io/b/rob-ctv-yd9-oto"
+  },
+  "Karaoke": {
+    "Hoch auf dem Gelben Wagen": "https://peters-liederbox.de/mediathek/Hoch-auf-dem-gelben-Wagen.mp4",
+    "Kein schoener Land in dieser Zeit": "https://peters-liederbox.de/mediathek/Kein-schoener-Land-in-dieser-Zeit.mp4",
+    "Nun ade du mein lieb Heimatland": "https://peters-liederbox.de/mediathek/Nun-ade-du-mein-lieb-Heimatland.mp4",
+    "Schneewalzer": "https://peters-liederbox.de/mediathek/Schneewalzer.mp4",
+    "Wem Gott will rechte Gunst erweien": "https://peters-liederbox.de/mediathek/Wem-Gott-will-rechte-Gunst-erweisen.mp4",
+    "Wer lieben die Stuerme": "https://peters-liederbox.de/mediathek/Wir-lieben-die-Stuerme.mp4",
+    "Die Gedanken sind frei": "https://peters-liederbox.de/mediathek/Die-Gedanken-sind-frei.mp4",
+    "Wohlauf in Gottes schoene Welt": "https://peters-liederbox.de/mediathek/Wohlauf-in-Gottes-schoene-Welt.mp4",
+    "Am Brunnen vor dem Tore": "https://peters-liederbox.de/mediathek/Am-Brunnen-vor-dem-Tore.mp4",
+    "Du du liegst mir am Herzen": "https://peters-liederbox.de/mediathek/Du-du-liegst-mir-am-Herzen.mp4"
+  },
+  "HVBB": {
+    "Pflege & Roboter I": "https://www.canva.com/design/DAGi75Clcqc/AOSr_Z4Wxs4rNGOL6D1ZWQ/view?utm_content=DAGi75Clcqc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h843d99c1d4",
+    "Pflege & Roboter II": "https://www.canva.com/design/DAGi72Dp104/VhP3Pmn7FGQ_x-peEnsRlA/view?utm_content=DAGi72Dp104&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h78c19a0efc"
+  }
+}
