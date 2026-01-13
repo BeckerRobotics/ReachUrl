@@ -7,7 +7,8 @@
     "KI Avatar": "https://humanchat.net/ham37Xfq76Qk",
     "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
     "Youtube": "https://www.youtube.com",
-    "Video Call": "https://www.whereby.com/becker-robotics"
+    "Video Call": "https://www.whereby.com/becker-robotics",
+    "Unframe Avatar" : "https://app.unframeavatars.com/de/avatar/DXcg9S8zfZ"
   }
 
 }
