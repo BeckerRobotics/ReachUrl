@@ -33,12 +33,7 @@
 "MS-Erkrankte Interface 1":"https://www.canva.com/design/DAG-GuJMAe4/ZtDP8tmgyefNXIpuIUyhlA/view?utm_content=DAG-GuJMAe4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76f366cac2",
 "MS-Erkrankte Persona 1":"https://www.canva.com/design/DAG-G_Wb_5A/Ccmsd3wvSc-BeSHR93tLfQ/view?utm_content=DAG-G_Wb_5A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6fb9798024",
 "Jedermann":"https://www.canva.com/design/DAG-HOtJwiY/2IFaxtdr6gWOtJi5FXfVoQ/view?utm_content=DAG-HOtJwiY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8db67f1d34",
-"Jedermann Persona":"https://www.canva.com/design/DAG-HPq--0s/7lsap-htCiebM-hCYO2zTQ/view?utm_content=DAG-HPq--0s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e9e86e752",
-
-
-
-
-
+"Jedermann Persona":"https://www.canva.com/design/DAG-HPq--0s/7lsap-htCiebM-hCYO2zTQ/view?utm_content=DAG-HPq--0s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e9e86e752"
   }
 
 }
