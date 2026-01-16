@@ -8,7 +8,7 @@
     "Umfrage": "https://s.surveyplanet.com/ug2u7r6e",
     "Youtube": "https://www.youtube.com",
     "Video Call": "https://www.whereby.com/becker-robotics",
-    "Unframe Avatar" : "https://app.unframeavatars.com/de/avatar/DXcg9S8zfZ"
+    "Unframe Avatar" : "https://app.unframeavatars.com/de/avatar/DXcg9S8zfZ",
     "Karla": "https://www.canva.com/design/DAG-N4LAe9k/6LQmBxPj8ym9y0KCCZOsYQ/view?utm_content=DAG-N4LAe9k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08a03da7e4",
   "Persona Karla":"https://www.canva.com/design/DAG-NxUULeg/cFVmy941m_obW-lgUcLZsg/view?utm_content=DAG-NxUULeg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d7e4dc4bb",
   "Jedermann-Anwendung":"https://www.canva.com/design/DAG6Yf_53vI/PFJ19CsYQEKAoSOlc1EdPA/view?utm_content=DAG6Yf_53vI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h43c1eed770",
