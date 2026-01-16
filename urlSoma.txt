@@ -19,7 +19,7 @@
 "Interface 1 für Emma":"https://www.canva.com/design/DAG7PrxtI-k/5OJ_VyZqEjHydP-d89oGag/view?utm_content=DAG7PrxtI-k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd97576fc49",
 "Interface 2 für Emma":"https://www.canva.com/design/DAG7f0i3-Cw/hf9WRqti97wCtgHq4WggYQ/view?utm_content=DAG7f0i3-Cw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75e26044a3",
 "Interface 1 für Theo":"https://www.canva.com/design/DAG7te-o5ts/Ih_DqmH15A7P0rnssYIbWg/view?utm_content=DAG7te-o5ts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfe8f253277",
-"Interface 2 für Theo":"https://www.canva.com/design/DAG7rbj6unc/AIdyUM-jOoDCA6wB-CwFqA/view?utm_content=DAG7rbj6unc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h910d5438ac";
+"Interface 2 für Theo":"https://www.canva.com/design/DAG7rbj6unc/AIdyUM-jOoDCA6wB-CwFqA/view?utm_content=DAG7rbj6unc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h910d5438ac",
 "Interface Jedermann":"https://www.canva.com/design/DAG7gYTCCpo/w9y368JHEsGijtSBbe1Xxg/view?utm_content=DAG7gYTCCpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he842ef6971",
 "Persona":"https://www.canva.com/design/DAG-MJCIH_4/BpZcCiD2P-L8z8lHkzuCeQ/view?utm_content=DAG-MJCIH_4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee54260df9",
 "Interface":"https://www.canva.com/design/DAG-MCodd_o/hbAROCDUVFEemD5Pwf09ug/view?utm_content=DAG-MCodd_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb274b18c0d",
