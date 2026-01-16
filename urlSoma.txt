@@ -9,6 +9,36 @@
     "Youtube": "https://www.youtube.com",
     "Video Call": "https://www.whereby.com/becker-robotics",
     "Unframe Avatar" : "https://app.unframeavatars.com/de/avatar/DXcg9S8zfZ"
+    "Karla": "https://www.canva.com/design/DAG-N4LAe9k/6LQmBxPj8ym9y0KCCZOsYQ/view?utm_content=DAG-N4LAe9k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08a03da7e4",
+  "Persona Karla":"https://www.canva.com/design/DAG-NxUULeg/cFVmy941m_obW-lgUcLZsg/view?utm_content=DAG-NxUULeg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d7e4dc4bb",
+  "Jedermann-Anwendung":"https://www.canva.com/design/DAG6Yf_53vI/PFJ19CsYQEKAoSOlc1EdPA/view?utm_content=DAG6Yf_53vI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h43c1eed770",
+"MitMachMelodie Max":"https://www.canva.com/design/DAG6Q8rXM0Y/nrRQfa5sEN1EHYjbhMP4Rw/view?utm_content=DAG6Q8rXM0Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h53c1f1dce2",
+ "MitMachMelodie Klara":"https://www.canva.com/design/DAG7T36eUa4/0BLjpPyxMqaGDxxbaD3Bhg/view?utm_content=DAG7T36eUa4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h684ef6248b",
+   "Mein Tag Max":"https://www.canva.com/design/DAG7gH9ueyk/brAFeEGE4dhJbPy9yvFgfA/view?utm_content=DAG7gH9ueyk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0d6e81578d",
+    "Mein Tag Klara":"https://www.canva.com/design/DAG7HIOjoq0/-gO2PeQ8NySVZ6xrYIt1JQ/view?utm_content=DAG7HIOjoq0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he46bd1dbef",
+"Interface 1 für Emma":"https://www.canva.com/design/DAG7PrxtI-k/5OJ_VyZqEjHydP-d89oGag/view?utm_content=DAG7PrxtI-k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd97576fc49",
+"Interface 2 für Emma":"https://www.canva.com/design/DAG7f0i3-Cw/hf9WRqti97wCtgHq4WggYQ/view?utm_content=DAG7f0i3-Cw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75e26044a3",
+"Interface 1 für Theo":"https://www.canva.com/design/DAG7te-o5ts/Ih_DqmH15A7P0rnssYIbWg/view?utm_content=DAG7te-o5ts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfe8f253277",
+"Interface 2 für Theo":"https://www.canva.com/design/DAG7rbj6unc/AIdyUM-jOoDCA6wB-CwFqA/view?utm_content=DAG7rbj6unc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h910d5438ac";
+"Interface Jedermann":"https://www.canva.com/design/DAG7gYTCCpo/w9y368JHEsGijtSBbe1Xxg/view?utm_content=DAG7gYTCCpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he842ef6971",
+"Persona":"https://www.canva.com/design/DAG-MJCIH_4/BpZcCiD2P-L8z8lHkzuCeQ/view?utm_content=DAG-MJCIH_4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee54260df9",
+"Interface":"https://www.canva.com/design/DAG-MCodd_o/hbAROCDUVFEemD5Pwf09ug/view?utm_content=DAG-MCodd_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb274b18c0d",
+"Relefant":"https://www.canva.com/design/DAG-HVj6Cv4/k6e0TgAOITUbPhXamv4BeQ/view?utm_content=DAG-HVj6Cv4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcd81c553e9",
+"Persona Gerhard":"https://www.canva.com/design/DAG-H0N_w64/F9Gsuu6fKcuV5_42Woc6RA/view?utm_content=DAG-H0N_w64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h175e797181",
+"Beginnender Demenz Reminder 1":"https://www.canva.com/design/DAG6n-ms6Rw/ZUqOozej7ThIGFnEMlpCEg/view?utm_content=DAG6n-ms6Rw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1e1a142d0",
+"Beginnender Demenz Reminder 2":"https://www.canva.com/design/DAG7wcdJwZQ/mj8_lalcSfkkSuPEuckPsA/view?utm_content=DAG7wcdJwZQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe5ad22986",
+"fortgeschrittener Demenz Tanzanwendung 1":"https://www.canva.com/design/DAG5tM-Axw0/Ge1YZ1tvirfIB1JY6jFpRg/view?utm_content=DAG5tM-Axw0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba9201379e",
+"fortgeschrittener Demenz Tanzanwendung 2":"https://www.canva.com/design/DAG-HkLLBW8/_ja3b6qUW11GVWvx7HCo6A/view?utm_content=DAG-HkLLBW8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8dd4a76f1",
+"Jedermann:  Anti-Stress-Anwendung":"https://www.canva.com/design/DAG5yhdcDLI/Gk6XLc0RTIwkrKOx-SRbww/view?utm_content=DAG5yhdcDLI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6cafc96bfe%20%20anti%20stress",
+"MS-Erkrankte Interface 1":"https://www.canva.com/design/DAG-GuJMAe4/ZtDP8tmgyefNXIpuIUyhlA/view?utm_content=DAG-GuJMAe4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76f366cac2",
+"MS-Erkrankte Persona 1":"https://www.canva.com/design/DAG-G_Wb_5A/Ccmsd3wvSc-BeSHR93tLfQ/view?utm_content=DAG-G_Wb_5A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6fb9798024",
+"Jedermann":"https://www.canva.com/design/DAG-HOtJwiY/2IFaxtdr6gWOtJi5FXfVoQ/view?utm_content=DAG-HOtJwiY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8db67f1d34",
+"Jedermann Persona":"https://www.canva.com/design/DAG-HPq--0s/7lsap-htCiebM-hCYO2zTQ/view?utm_content=DAG-HPq--0s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e9e86e752",
+
+
+
+
+
   }
 
 }
